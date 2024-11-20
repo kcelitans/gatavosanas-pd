@@ -52,11 +52,11 @@
 // let result = getRectArea()
 // console.log(result)
 
-const getRectAreaAdvanced = function (width, height) {
-    return width * height;
-  };
+// const getRectAreaAdvanced = function (width, height) {
+//     return width * height;
+//   };
   
-  console.log(getRectAreaAdvanced(3, 4));
+//   console.log(getRectAreaAdvanced(3, 4));
   
   
 
