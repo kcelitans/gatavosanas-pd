@@ -1,18 +1,18 @@
 
-// // variables
-// // let firstName = "KristofersC"
+//variables
+// let firstName = "KristofersC"
 
-// // console.log(firstName);
+// console.log(firstName);
 
 
 
-// // let myArray = [1,2,3,4]
+// let myArray = [1,2,3,4]
 
-// // // conditionals
-// // let x = 11;
-// // if (x == 10){
-// //     console.log("X ir lielāks par 10")
-// // }
+// // conditionals
+// let x = 11;
+// if (x == 10){
+//     console.log("X ir lielāks par 10")
+// }
 
 // let person = {
 //     vārds: "Antra", 
@@ -40,7 +40,7 @@
 //     (console.log[i])
 // }
 
-// functions with and without return
+// //functions with and without return
 // function drive(){
 //     console.log("Driving")
 // }
